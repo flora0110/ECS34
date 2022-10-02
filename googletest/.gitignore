@@ -1,5 +1,4 @@
 # Ignore CI build directory
-build/
 xcuserdata
 cmake-build-debug/
 .idea/
@@ -49,7 +48,6 @@ googletest/xcode/.DS_Store
 # Ignore cmake generated directories and files.
 CMakeFiles
 CTestTestfile.cmake
-Makefile
 cmake_install.cmake
 googlemock/CMakeFiles
 googlemock/CTestTestfile.cmake
